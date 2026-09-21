@@ -1,0 +1,37 @@
+# الواجهة والبيئة الأساسية
+xfce4
+xfce4-goodies
+lightdm
+lightdm-gtk-greeter
+network-manager
+network-manager-gnome
+
+# اللغات والخطوط العربية
+locales
+fonts-noto
+fonts-arabic-extra
+
+# المتصفح والأدوات المكتبية
+firefox-esr
+libreoffice
+thunar
+xfce4-terminal
+gnome-software
+flatpak
+
+# الأرشيف والضغط
+zip
+unzip
+p7zip-full
+tar
+gzip
+xz-utils
+
+# المطورين والألعاب
+git
+curl
+wget
+wine
+winetricks
+gamemode
+mangohud
